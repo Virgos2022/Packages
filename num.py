@@ -66,6 +66,3 @@ import numpy as np
 # print(arr[1::3])
 
 # print(np.dot(x,y))     #the dot() function in numpy performs the Dot product i.e. scalar multipication of two matrices
-
-
- 
